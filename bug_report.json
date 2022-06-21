@@ -5,8 +5,8 @@
 "Priority": "Low",
 "Environment": "Samsung Galaxy S9+,  Android 10",
 "Precondition": "Installed app on the device",
-"STR": [ "1. Open the APP
-         2. Tap "Send Email" button" ],
+"STR": [ "1. Open the APP"
+         "2. Tap "Send Email" button" ],
 "AR": "App return different links not related to sending email",
 "ER": "App return  links related to sending email"
 }
